@@ -1,0 +1,7 @@
+﻿fastapi
+uvicorn
+sentence-transformers
+numpy
+scikit-learn
+requests
+python-dotenv
